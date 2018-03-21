@@ -113,4 +113,4 @@ I used this training data for training the model. The validation set helped dete
 
 ![alt text][image3]
 
-You can check the final model performance in [submission](../)
+You can check the final model performance in [run1.mp4](./)
