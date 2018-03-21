@@ -1,7 +1,10 @@
-# Behaviorial Cloning Project
+## Behaviorial Cloning Project
 
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
+### The submitted project python files and writeup report are in [submission](./submission) folder.
+
+---
 Overview
 ---
 This repository contains starting files for the Behavioral Cloning Project.

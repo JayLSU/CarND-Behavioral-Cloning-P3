@@ -111,6 +111,6 @@ I finally randomly shuffled the data set and put 10% of the data into a validati
 
 I used this training data for training the model. The validation set helped determine if the model was over or under fitting. I observed that usually after 3 epochs, the loss would increase. Therefore, I chose 3 as the number of epochs. I used an adam optimizer so that manually training the learning rate wasn't necessary. The model MSE loss is illustrated.
 
-![alt text][image2]
+![alt text][image3]
 
-You can check the final model performance in [video](./run1.mp4)
+You can check the final model performance in [submission](../)
